@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  
+![](https://i.postimg.cc/661DGq85/image.png)
 
-<!--
-**hvmantorch/hvmantorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=19&pause=1000&color=B1CBF7&width=435&lines=Johnny+Storm's+%231+Fan)](https://git.io/typing-svg)  
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://i.postimg.cc/tCmppyQQ/image.png" width="50" alt="https://rentry.co/fl4med">   <img src="https://i.postimg.cc/DwFD9M0D/image.png" width="45" alt=" ">
+<div align="center">
+  
+![](https://i.postimg.cc/G26Z83Qv/image.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

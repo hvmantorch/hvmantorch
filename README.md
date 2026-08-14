@@ -4,7 +4,7 @@
 
 <div align="center">
   $\color{#252b39}{test}$
-  $ `\textcolor{teal}{ \text{ Eq.(3-5) in the main text} } `$
+  $ `\textcolor{#252b39}{ \text{test} } `$
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=19&pause=1000&color=B1CBF7&width=435&lines=Johnny+Storm's+%231+Fanhttps://readme-typing-svg.demolab.com/demo/?font=Playfair+Display&weight=300&size=25&color=B1CBF7&lines=Johnny+Storm's+%231+Fan)](https://git.io/typing-svg)  

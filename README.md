@@ -11,9 +11,12 @@
   
 ![](https://i.postimg.cc/G26Z83Qv/image.png)
 <div align="center">
+
+
+$$\color{#cbcaff}i\ \color{#b7b6e6}♡\ \color{#b7b6e6}j\\color{#adacd9}o\\color{#a2a2cc}h\\color{#9898bf}n\\color{#8e8db3}n\\color{#8483a6}y\ \color{#7a7999}s\\color{#706f8c}t\\color{#666580}o\\color{#5b5b73}r\\color{#515166}m$$
+
+<div align="center">
   
-
-
 ![](https://i.postimg.cc/kXdS3BRH/image.png)
 <div align="center">
   

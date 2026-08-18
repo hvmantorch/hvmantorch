@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=35&pause=1000&color=30394e&width=435&lines=Johnny+Storm's+%231+Fan)](https://git.io/typing-svg)
 
+ thank you [@pt-hall-of-media](https://github.com/pt-hall-of-media)
+
 <img src="https://i.postimg.cc/tCmppyQQ/image.png" width="50" alt="https://rentry.co/fl4med">   <img src="https://i.postimg.cc/DwFD9M0D/image.png" width="45" alt=" ">
 <div align="center">
   
